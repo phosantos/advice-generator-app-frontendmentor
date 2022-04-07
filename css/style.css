@@ -93,7 +93,7 @@ body {
     margin-top: 50px;
   }
   .advice::after {
-    background: url("../images/pattern-divider-mobile.svg");
+    background: url("../images/pattern-divider-mobile.svg") center;
     margin-top: 60px;
   }
   .btn {
